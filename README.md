@@ -6,13 +6,13 @@ I try to use both the creative and emotional features of the brain. Programming 
 
 ## Skills:
 <p float="left">
-  <img src="https://github.com/can-git/cnylmz/blob/main/images/spring.png" width="40px" alt="Spring" title="Spring">&nbsp;&nbsp;
-  <img src="https://github.com/can-git/cnylmz/blob/main/images/java.png" width="40px" alt="Java" title="Java">&nbsp;&nbsp;
-  <img src="https://github.com/can-git/cnylmz/blob/main/images/python.png" width="40px" alt="Python" title="Python">&nbsp;&nbsp;
-  <img src="https://github.com/can-git/cnylmz/blob/main/images/ai.png" width="40px" alt="AI" title="AI">&nbsp;&nbsp;
-  <img src="https://github.com/can-git/cnylmz/blob/main/images/csharp.png" width="40px" alt="C#" title="C#">&nbsp;&nbsp;
-  <img src="https://github.com/can-git/cnylmz/blob/main/images/unity.png" width="40px" alt="Unity" title="Unity">&nbsp;&nbsp;
-  <img src="https://github.com/can-git/cnylmz/blob/main/images/sqlRed.png" width="40px" alt="SQL" title="SQL">&nbsp;&nbsp;
+  <img src="https://github.com/can-git/can-git/blob/main/images/spring.png" width="40px" alt="Spring" title="Spring">&nbsp;&nbsp;
+  <img src="https://github.com/can-git/can-git/blob/main/images/java.png" width="40px" alt="Java" title="Java">&nbsp;&nbsp;
+  <img src="https://github.com/can-git/can-git/blob/main/images/python.png" width="40px" alt="Python" title="Python">&nbsp;&nbsp;
+  <img src="https://github.com/can-git/can-git/blob/main/images/ai.png" width="40px" alt="AI" title="AI">&nbsp;&nbsp;
+  <img src="https://github.com/can-git/can-git/blob/main/images/csharp.png" width="40px" alt="C#" title="C#">&nbsp;&nbsp;
+  <img src="https://github.com/can-git/can-git/blob/main/images/unity.png" width="40px" alt="Unity" title="Unity">&nbsp;&nbsp;
+  <img src="https://github.com/can-git/can-git/blob/main/images/sqlRed.png" width="40px" alt="SQL" title="SQL">&nbsp;&nbsp;
 </p>
 
 ## Projects
@@ -26,5 +26,5 @@ I try to use both the creative and emotional features of the brain. Programming 
 |                                                                                                                                 |               [TimeWars (2020)](https://github.com/can-git/TimeWars)              |                                                        |
 #### <em>Readme files will be added soon</em>
 ## Connect with me:
-[<img alt="LinkedIn" title="LinkedIn" width="40px" src="https://github.com/can-git/cnylmz/blob/main/images/linkedInBlue.png" />](https://www.linkedin.com/in/can-yilmaz-/)&nbsp;&nbsp;
-[<img alt="Instagram" title="Instagram" width="40px" src="https://github.com/can-git/cnylmz/blob/main/images/instagram.png" />](https://www.instagram.com/cnylmz____/)
+[<img alt="LinkedIn" title="LinkedIn" width="40px" src="https://github.com/can-git/can-git/blob/main/images/linkedInBlue.png" />](https://www.linkedin.com/in/can-yilmaz-/)&nbsp;&nbsp;
+[<img alt="Instagram" title="Instagram" width="40px" src="https://github.com/can-git/can-git/blob/main/images/instagram.png" />](https://www.instagram.com/cnylmz____/)
