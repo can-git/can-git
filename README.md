@@ -26,5 +26,5 @@ I try to use both the creative and emotional features of the brain. Programming 
 |                                                                                                                                 |               [TimeWars (2020)](https://github.com/can-git/TimeWars)              |                                                        |
 #### <em>Readme files will be added soon</em>
 ## Connect with me:
-[<img alt="LinkedIn" title="LinkedIn" width="40px" src="https://github.com/can-git/can-git/blob/main/images/linkedInBlue.png" />](https://www.linkedin.com/in/can-yilmaz-/)&nbsp;&nbsp;
+[<img alt="LinkedIn" title="LinkedIn" width="40px" src="https://github.com/can-git/can-git/blob/main/images/linkedInBlue.png" />](https://www.linkedin.com/in/cnylmz/)&nbsp;&nbsp;
 [<img alt="Instagram" title="Instagram" width="40px" src="https://github.com/can-git/can-git/blob/main/images/instagram.png" />](https://www.instagram.com/cnylmz____/)
