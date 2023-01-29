@@ -17,7 +17,7 @@ I try to use both the creative and emotional features of the brain. Programming 
 
 ## Projects
 
-|                                                             Backend                                                             |                                       Unity                                       | AI                                                     |
+|                                                             Backend                                                             |                                       Unity                                       | AI                                                     | School                                                     |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|--------------------------------------------------------|
 |                           [Redis-Aspect-MongoDB (2022)](https://github.com/can-git/Redis_Aspect_Mongo)                          |                   [IBET (2022)](https://github.com/can-git/IBET)                  |     [Alaz (2021)](https://github.com/can-git/Alaz)     |
 |                                [Gateway-Eureka (2022)](https://github.com/can-git/Gateway-Eureka)                               | [Creating Virtual Worlds (2022)](https://github.com/can-git/SanalDunyaYaraticisi) | [Capstone (2021)](https://github.com/can-git/Capstone) |
