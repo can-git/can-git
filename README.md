@@ -27,4 +27,3 @@ I try to use both the creative and emotional features of the brain. Programming 
 #### <em>Readme files will be added soon</em>
 ## Connect with me:
 [<img alt="LinkedIn" title="LinkedIn" width="40px" src="https://github.com/can-git/can-git/blob/main/images/linkedInBlue.png" />](https://www.linkedin.com/in/cnylmz/)&nbsp;&nbsp;
-[<img alt="Instagram" title="Instagram" width="40px" src="https://github.com/can-git/can-git/blob/main/images/instagram.png" />](https://www.instagram.com/cnylmz____/)
