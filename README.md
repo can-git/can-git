@@ -2,10 +2,6 @@
 
 I am currently working on <strong>AI</strong>, <strong>Unity</strong> and <strong>Backend</strong> devoloping for business and hobby.
 
-I try to use both the creative and emotional features of the brain. Programming is a passion and seeing the robustness of a project 
-is the ultimate pleasure. I see myself more as a team alone, but being a team with amazing people is also indispensable. 
-My aim is to produce quality, innovative and sustainable products.
-
 ## Skills:
 <p float="left">
   <img src="https://github.com/can-git/can-git/blob/main/images/python.png" width="40px" alt="Python" title="Python">&nbsp;&nbsp;
