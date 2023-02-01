@@ -19,13 +19,12 @@ My aim is to produce quality, innovative and sustainable products.
 
 ## Projects
 
-|                                                             Backend                                                               |                                       Unity                                       | AI                                                                            |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|-------------------------------------------------------------------------------|
-|                           [Redis-Aspect-MongoDB (2022)](https://github.com/can-git/Redis_Aspect_Mongo)                            |[Project-Boost (2020)](https://github.com/can-git/Project-Boost)                   |     [Alaz (2021)](https://github.com/can-git/Alaz)                            |
-|                                [Gateway-Eureka (2022)](https://github.com/can-git/Gateway-Eureka)                                 |[TimeWars (2020)](https://github.com/can-git/Time-Wars)                            | [Capstone (2021)](https://github.com/can-git/Capstone)                        |
-| [Flow-Demo (2022)](https://github.com/can-git/flow-demo) / [Flow-Demo-Client (2022)](https://github.com/can-git/flow-demo-client) |[Creating Virtual Worlds (2022)](https://github.com/can-git/SanalDunyaYaraticisi)  |[Detection on Histapathology Images](https://github.com/can-git/ARI5004Project)|
-|                                                                                                                                   |                                                                                   |                                                                               |
-|                                                                                                                                   |                                                                                   |                                                                               |
+|                                                             Backend                                                               |                                       Unity                                       | AI                                                                                   |
+|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|
+|                           [Redis-Aspect-MongoDB (2022)](https://github.com/can-git/Redis_Aspect_Mongo)                            |[Project-Boost (2020)](https://github.com/can-git/Project-Boost)                   |     [Alaz (2021)](https://github.com/can-git/Alaz)                                   |
+|                                [Gateway-Eureka (2022)](https://github.com/can-git/Gateway-Eureka)                                 |[TimeWars (2020)](https://github.com/can-git/Time-Wars)                            | [Capstone (2021)](https://github.com/can-git/Capstone)                               |
+| [Flow-Demo (2022)](https://github.com/can-git/flow-demo) / [Flow-Demo-Client (2022)](https://github.com/can-git/flow-demo-client) |[Creating Virtual Worlds (2022)](https://github.com/can-git/SanalDunyaYaraticisi)  |[Detection on Histapathology Images (2023)](https://github.com/can-git/ARI5004Project)|
+
 #### <em>Readme files will be added soon</em>
 ## Connect with me:
 [<img alt="LinkedIn" title="LinkedIn" width="40px" src="https://github.com/can-git/can-git/blob/main/images/linkedInBlue.png" />](https://www.linkedin.com/in/cnylmz/)&nbsp;&nbsp;
