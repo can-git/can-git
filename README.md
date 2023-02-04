@@ -14,12 +14,12 @@ I am currently working on <strong>AI</strong>, <strong>Unity</strong> and <stron
 </p>
 
 ## Projects
-
-|                                                             Backend                                                               |                                       Unity                                       | AI                                                                                   |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|
-|                           [Redis-Aspect-MongoDB (2022)](https://github.com/can-git/Redis_Aspect_Mongo)                            |[Project-Boost (2020)](https://github.com/can-git/Project-Boost)                   |     [Alaz (2021)](https://github.com/can-git/Alaz)                                   |
-|                                [Gateway-Eureka (2022)](https://github.com/can-git/Gateway-Eureka)                                 |[TimeWars (2020)](https://github.com/can-git/Time-Wars)                            | [Capstone (2021)](https://github.com/can-git/Capstone)                               |
-| [Flow-Demo (2022)](https://github.com/can-git/flow-demo) / [Flow-Demo-Client (2022)](https://github.com/can-git/flow-demo-client) |[Creating Virtual Worlds (2022)](https://github.com/can-git/SanalDunyaYaraticisi)  |[Detection on Histapathology Images (2023)](https://github.com/can-git/ARI5004Project)|
+|                                 AI                                                                                                              |                                       Unity                                       |                                                              Backend                                                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------|
+|[Alaz (2021)](https://github.com/can-git/Alaz)                                                                                                   |[Project-Boost (2020)](https://github.com/can-git/Project-Boost)                   |[Redis-Aspect-MongoDB (2022)](https://github.com/can-git/Redis_Aspect_Mongo)                                                       |
+|[EEG Data Analysis for Detecting Relaxation and Concentration Moods with Machine Learning Algorithms (2021)](https://github.com/can-git/Capstone)|[TimeWars (2020)](https://github.com/can-git/Time-Wars)                            |[Gateway-Eureka (2022)](https://github.com/can-git/Gateway-Eureka)                                                                 |
+|[Information Extraction From Unstructured Texts (2023)](https://github.com/can-git/Information-Extraction-From-Unstructured-Texts)               |[Creating Virtual Worlds (2022)](https://github.com/can-git/SanalDunyaYaraticisi)  |[Flow-Demo (2022)](https://github.com/can-git/flow-demo) / [Flow-Demo-Client (2022)](https://github.com/can-git/flow-demo-client)  |
+|[Detection on Histapathology Images (2023)](https://github.com/can-git/ARI5004Project)                                                           |
 
 #### <em>Readme files will be added soon</em>
 ## Connect with me:
