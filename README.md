@@ -7,7 +7,7 @@
             I have some knowledge about Unity 2D and 3D with C#.
 
             I'm familiar with the Spring Framework (Boot, MVC, Data, Cloud, Security, Batch), 
-            RESTful API design, MongoDB and Redis databases using Java, Docker containerization and 
+            RESTful API design, MongoDB, SQL and Redis databases using Java, Docker containerization and 
             Git version control.
 
             Also occasionally using Blender for 3D modeling, as well as Photoshop CS6 for image editing.
